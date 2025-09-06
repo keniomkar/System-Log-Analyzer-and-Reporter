@@ -1,0 +1,20 @@
+Sep 06 10:00: INFO System boot
+Sep 06 10:05: WARNING CPU temperature high
+Sep 06 10:10: ERROR Disk space low
+Sep 06 10:15: INFO User login
+Sep 06 10:20: WARNING Memory usage high
+Sep 06 10:25: ERROR Failed to connect to database
+Sep 06 10:30: INFO Service started
+Sep 06 10:35: WARNING Network latency detected
+Sep 06 10:40: ERROR Failed to load module
+Sep 06 10:45: INFO Backup completed
+Sep 06 10:50: WARNING High CPU usage
+Sep 06 10:55: ERROR Failed to send email
+Sep 06 11:00: INFO Scheduled task executed
+Sep 06 11:05: WARNING Disk nearing full
+Sep 06 11:10: ERROR Failed to connect to server
+Sep 06 11:15: INFO System health check OK
+Sep 06 11:20: WARNING Memory leak detected
+Sep 06 11:25: ERROR Service crashed unexpectedly
+Sep 06 11:30: INFO User logout
+Sep 06 11:35: WARNING CPU temperature high
