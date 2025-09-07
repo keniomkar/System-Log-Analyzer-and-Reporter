@@ -1,7 +1,7 @@
 # System-Log-Analyzer-Reporter
 System Log Analyser and Reporter – Built with Bash and Python to automate log monitoring. Extracts ERROR/WARNING entries, summarises occurrences, and generates reports. Demonstrates scripting, automation, and cross-platform development skills.
 
-## 📂 Project Structure
+## Project Structure
 System-Log-Analyzer/
 │── system_logs.txt # Sample system log file (input)
 │── log_collector.sh # Bash script to filter logs
@@ -12,7 +12,7 @@ System-Log-Analyzer/
 
 ---
 
-## 🚀 How It Works
+## How It Works
 1. **Log Collection (Bash)**  
    - `log_collector.sh` scans `system_logs.txt`  
    - Filters out lines containing `ERROR` or `WARNING`  
@@ -42,4 +42,5 @@ Visualisation (graphs of ERROR vs WARNING)
 Automated daily scheduling
 
 ---
+
 
