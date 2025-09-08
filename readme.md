@@ -3,12 +3,12 @@ System Log Analyser and Reporter – Built with Bash and Python to automate log 
 
 ## Project Structure
 System-Log-Analyzer/
-│── system_logs.txt # Sample system log file (input)
-│── log_collector.sh # Bash script to filter logs
-│── log_report.py # Python script to generate summary
-│── run_analysis.sh # Automation script (runs both steps)
-│── filtered_logs.txt # Filtered log output (generated)
-│── log_report.txt # Summary report (generated)
+│── **system_logs.tx**t # Sample system log file (input)  
+│── **log_collector.sh** # Bash script to filter logs  
+│── **log_report.py** # Python script to generate summary  
+│── **run_analysis.sh** # Automation script (runs both steps)  
+│── **filtered_logs.txt** # Filtered log output (generated)  
+│── **log_report.txt** # Summary report (generated)  
 
 ---
 
@@ -29,18 +29,19 @@ System-Log-Analyzer/
 ---
 
 ## Skills Demonstrated
-Bash scripting: text filtering, file handling, automation
-Python scripting: file parsing, reporting, data processing
-Cross-platform scripting (Windows Git Bash + Linux/Mac)
-System monitoring & log analysis
+- Bash scripting: text filtering, file handling, automation
+- Python scripting: file parsing, reporting, data processing
+- Cross-platform scripting (Windows Git Bash + Linux/Mac)
+- System monitoring & log analysis
 
 ---
 
 ## Future Enhancements
-Email notifications for critical errors
-Visualisation (graphs of ERROR vs WARNING)
-Automated daily scheduling
+- Email notifications for critical errors
+- Visualisation (graphs of ERROR vs WARNING)
+- Automated daily scheduling
 
 ---
+
 
 
